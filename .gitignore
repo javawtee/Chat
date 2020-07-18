@@ -1,3 +1,6 @@
+# expo
+.expo/*
+
 # Logs
 logs
 *.log
@@ -102,3 +105,7 @@ dist
 
 # TernJS port file
 .tern-port
+package-lock.json
+utils/env.js
+yarn.lock
+.expo-shared/assets.json
