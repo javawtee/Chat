@@ -3,8 +3,6 @@
 import Constants from 'expo-constants';
 import { Platform } from 'react-native';
 
-console.log('argv', process.argv);
-
 const currentPlatform = Platform.OS;
 
 const SERVER_ENDPOINT = 'url-to-server';
